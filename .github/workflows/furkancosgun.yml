@@ -1,0 +1,32 @@
+name: Update furkancosgun README 
+
+on:
+  workflow_dispatch: 
+  schedule:
+    - cron: "0 0 * * *" 
+
+jobs:
+  update-readme: 
+    runs-on: ubuntu-latest 
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate README.md
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: "templates/furkancosgun.tpl" 
+          writeTo: "README.md" 
+
+      - name: Commit Updated README
+        uses: stefanzweifel/git-auto-commit-action@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+        with:
+          commit_message: "✨ Daily README refresh: Another day, another update! ✨" 
+          branch: main 
+          commit_user_name: furkancosgun-bot
+          commit_user_email: furkan51cosgun@gmail.com
+          commit_author: furkancosgun-bot <furkan51cosgun@gmail.com>
