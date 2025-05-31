@@ -38,9 +38,8 @@ Feel free to reach out if you'd like to discuss projects, collaborations, or jus
 #### 🔭 &nbsp; Check out my recent followers
 
 {{range followers 10}}
-
 - [ [{{.Login}}]({{.URL}}) {{.Name}} ]
-  {{- end}}
+{{- end}}
 
 ---
 
