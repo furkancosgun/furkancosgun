@@ -38,25 +38,15 @@ Feel free to reach out if you'd like to discuss projects, collaborations, or jus
 #### 🔭 &nbsp; Check out my recent followers
 
 
-
 - [ [filedonkey](https://github.com/filedonkey) FileDonkey ]
-
 - [ [helallao](https://github.com/helallao) Ali Yaşar ]
-
 - [ [seckinyasar](https://github.com/seckinyasar) Seckin Yasar ]
-
 - [ [Enes-Karakaya](https://github.com/Enes-Karakaya) Enes Karakaya ]
-
 - [ [ruthiel](https://github.com/ruthiel) Ruthiel Trevisan ]
-
 - [ [mbtools](https://github.com/mbtools) Marc Bernard ]
-
 - [ [Keller-Michael](https://github.com/Keller-Michael) Michael Keller ]
-
 - [ [dervisalisoydan](https://github.com/dervisalisoydan)  ]
-
 - [ [yigitbal5555](https://github.com/yigitbal5555) Yiğit BAL ]
-
 - [ [codinghemp](https://github.com/codinghemp) William Smith ]
 
 ---
