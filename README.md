@@ -39,7 +39,6 @@ Feel free to reach out if you'd like to discuss projects, collaborations, or jus
 
 
 - [ [helallao](https://github.com/helallao) Ali Yaşar ]
-- [ [seckinyasar](https://github.com/seckinyasar) Seckin Yasar ]
 - [ [Enes-Karakaya](https://github.com/Enes-Karakaya) Enes Karakaya ]
 - [ [ruthiel](https://github.com/ruthiel) Ruthiel Trevisan ]
 - [ [mbtools](https://github.com/mbtools) Marc Bernard ]
@@ -48,6 +47,7 @@ Feel free to reach out if you'd like to discuss projects, collaborations, or jus
 - [ [yigitbal5555](https://github.com/yigitbal5555) Yiğit BAL ]
 - [ [codinghemp](https://github.com/codinghemp) William Smith ]
 - [ [mmertpolat](https://github.com/mmertpolat) Muhammet Mert Polat ]
+- [ [nuth-vireak](https://github.com/nuth-vireak) kak_reak ]
 
 ---
 
