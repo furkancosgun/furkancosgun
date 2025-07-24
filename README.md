@@ -38,7 +38,6 @@ Feel free to reach out if you'd like to discuss projects, collaborations, or jus
 #### 🔭 &nbsp; Check out my recent followers
 
 
-- [ [oluiscabral](https://github.com/oluiscabral) Luis Cabral ]
 - [ [ipapoyli](https://github.com/ipapoyli) Giannis Papoulias ]
 - [ [ramazancetinkaya](https://github.com/ramazancetinkaya) Ramazan Çetinkaya ]
 - [ [Enes-Karakaya](https://github.com/Enes-Karakaya) Enes Karakaya ]
@@ -48,6 +47,7 @@ Feel free to reach out if you'd like to discuss projects, collaborations, or jus
 - [ [dervisalisoydan](https://github.com/dervisalisoydan)  ]
 - [ [yigitbal5555](https://github.com/yigitbal5555) Yiğit BAL ]
 - [ [codinghemp](https://github.com/codinghemp) William Smith ]
+- [ [mmertpolat](https://github.com/mmertpolat) Muhammet Mert Polat ]
 
 ---
 
