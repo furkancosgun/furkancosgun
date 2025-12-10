@@ -38,6 +38,7 @@ Feel free to reach out if you'd like to discuss projects, collaborations, or jus
 #### 🔭 &nbsp; Check out my recent followers
 
 
+- [ [helallao](https://github.com/helallao) Ali Yaşar ]
 - [ [JosemDelgado](https://github.com/JosemDelgado) José Delgado ]
 - [ [seckinyasar](https://github.com/seckinyasar) Seckin Yasar ]
 - [ [ipapoyli](https://github.com/ipapoyli) Giannis Papoulias ]
@@ -47,7 +48,6 @@ Feel free to reach out if you'd like to discuss projects, collaborations, or jus
 - [ [mbtools](https://github.com/mbtools) Marc Bernard ]
 - [ [Keller-Michael](https://github.com/Keller-Michael) Michael Keller ]
 - [ [dervisalisoydan](https://github.com/dervisalisoydan)  ]
-- [ [yigitbal5555](https://github.com/yigitbal5555) Yiğit BAL ]
 
 ---
 
