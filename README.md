@@ -38,7 +38,7 @@ Feel free to reach out if you'd like to discuss projects, collaborations, or jus
 #### 🔭 &nbsp; Check out my recent followers
 
 
-- [ [helallao](https://github.com/helallao) Ali Yaşar ]
+- [ [onamfc](https://github.com/onamfc) Brandon Estrella ]
 - [ [JosemDelgado](https://github.com/JosemDelgado) José Delgado ]
 - [ [ipapoyli](https://github.com/ipapoyli) Giannis Papoulias ]
 - [ [ramazancetinkaya](https://github.com/ramazancetinkaya) Ramazan Çetinkaya ]
