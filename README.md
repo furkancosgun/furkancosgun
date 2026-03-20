@@ -35,20 +35,6 @@ Feel free to reach out if you'd like to discuss projects, collaborations, or jus
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furkan51cosgun@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/furkancsgnn)
 
-#### 🔭 &nbsp; Check out my recent followers
-
-
-- [ [JosemDelgado](https://github.com/JosemDelgado) José Delgado ]
-- [ [ipapoyli](https://github.com/ipapoyli) Giannis Papoulias ]
-- [ [ramazancetinkaya](https://github.com/ramazancetinkaya) Ramazan Çetinkaya ]
-- [ [Enes-Karakaya](https://github.com/Enes-Karakaya) Enes Karakaya ]
-- [ [ruthiel](https://github.com/ruthiel) Ruthiel Trevisan ]
-- [ [mbtools](https://github.com/mbtools) Marc Bernard ]
-- [ [Keller-Michael](https://github.com/Keller-Michael) Michael Keller ]
-- [ [dervisalisoydan](https://github.com/dervisalisoydan)  ]
-- [ [yigitbal5555](https://github.com/yigitbal5555) Yiğit BAL ]
-- [ [codinghemp](https://github.com/codinghemp) William Smith ]
-
 ---
 
 ### ✨ Support My Work
@@ -56,7 +42,3 @@ Feel free to reach out if you'd like to discuss projects, collaborations, or jus
 If you find my work helpful or interesting, consider supporting me!
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/furkancosgun)
-
----
-
-[![Update-action status](https://github.com/furkancosgun/furkancosgun/actions/workflows/furkancosgun.yml/badge.svg)](https://github.com/furkancosgun/furkancosgun/actions/workflows/furkancosgun.yml)
